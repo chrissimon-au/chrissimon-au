@@ -14,4 +14,4 @@ I now help startups and engineering teams through a boutique/personal consultanc
 
 [Get in touch](https://devcycles.io/page/contact/) if you want some help!
 
-When not doing that, I'm working on [Contextive](https://github.com/dev-cycles/contextive) - an open source IDE extension to help developers working on complex domains by encouring the use of a Ubiquitous Language.
+When not doing that, I'm working on [Contextive](https://github.com/dev-cycles/contextive) - an open source IDE extension to help developers working on complex domains by encouraging the use of a Ubiquitous Language.
