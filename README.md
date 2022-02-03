@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on (Contextive)[https://contextive.tech]
+- 🔭 I’m currently working on [Contextive](https://contextive.tech)
 - 🌱 I’m currently learning FSharp, Language Server Protocol
 - 💬 Ask me about Domain Driven Design, using a Ubiquitous Language, Distributed Systems Architecture, Test Driven Development, Startups & Product Management
 - 📫 How to reach me: [Twitter](https://twitter.com/ChrisSimonAu) & [Dev Cycles Technology Advisory - Contact](https://devcycles.io/page/contact/)
