@@ -10,7 +10,7 @@
 
 A long time ago, I helped start a company that is now called [InLoop](https://www.inloop.com.au).  I was founding CTO which means you do a lot of different things when you're only 3 people, but eventually we had over 100 people which meant doing lots of different different things.  We launched a few successful products ([Flexischools](https://www.flexischools.com.au) and [LanternPay](https://lanternpay.com)) and in 2021 I stepped away from day to day with InLoop to start doing different different things.
 
-I now help startups and engineering teams through a boutique/personal consultancy services called [Dev Cycles Technology Advisory](https://devcycles.io/page/consulting/).  I help startups get started with their technology aspirations, and softwaer engineering teams with difficult problems like architecture, design, engineering process and retaining their agility as they grow.
+I now help startups and engineering teams through a boutique/personal consultancy service called [Dev Cycles Technology Advisory](https://devcycles.io/page/consulting/).  I help startups get started with their technology aspirations, and software engineering teams with difficult problems like architecture, design, engineering process and retaining their agility as they grow.
 
 Get in touch if you want some help!
 
