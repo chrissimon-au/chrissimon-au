@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**chrissimon-au/chrissimon-au** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on https://contextive.tech
+- 🌱 I’m currently learning FSharp, Language Server Protocol
+- 💬 Ask me about Domain Driven Design, using a Ubiquitous Language, Distributed Systems Architecture, Test Driven Development, Startups & Product Management
+- 📫 How to reach me: https://twitter.com/ChrisSimonAu & https://devcycles.io/page/contact/
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+### Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A long time ago, I helped start a company that is now called [InLoop](https://www.inloop.com.au).  I was founding CTO which means you do a lot of different things when you're only 3 people, but eventually we had over 100 people which meant doing lots of different different things.  We launched a few successful products ([Flexischools](https://www.flexischools.com.au) and [LanternPay](https://lanternpay.com)) and in 2021 I stepped away from day to day with InLoop to start doing different different things.
+
+I now help startups and engineering teams through a boutique/personal consultancy services called [Dev Cycles Technology Advisory](https://devcycles.io/page/consulting/).  I help startups get started with their technology aspirations, and softwaer engineering teams with difficult problems like architecture, design, engineering process and retaining their agility as they grow.
+
+Get in touch if you want some help!
+
+When not doing that, I'm working on [Contextive](https://github.com/dev-cycles/contextive) - an open source IDE extension to help developers working on complex domains by encouring the use of a Ubiquitous Language.
