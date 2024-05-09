@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Contextive](https://contextive.tech)
 - 🌱 I’m currently learning FSharp, Language Server Protocol
 - 💬 Ask me about Domain Driven Design, using a Ubiquitous Language, Distributed Systems Architecture, Test Driven Development, Startups & Product Management
-- 📫 How to reach me: [Mastodon]([https://twitter.com/ChrisSimonAu](https://hachyderm.io/@ChrisSimonAu)) & [Chris Simon - Technology Coaching & Advisory](https://chrissimon.au/contact/)
+- 📫 How to reach me: [Mastodon](https://hachyderm.io/@ChrisSimonAu) & [Chris Simon - Technology Coaching & Advisory](https://chrissimon.au/contact/)
 - 😄 Pronouns: He/Him
 
 ### Background
